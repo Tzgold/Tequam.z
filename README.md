@@ -39,7 +39,7 @@
 
 | Project | Description | Links |
 |--------|-------------|-------|
-| **🌐 Portfolio Website** | Responsive portfolio built with HTML, CSS, and JavaScript | [🔗 Live](https://yourusername.github.io/portfolio) • [📁 Code](https://github.com/yourusername/portfolio) |
+| **🌐 Portfolio Website** | Responsive portfolio built with HTML, CSS, and JavaScript | [🔗 Live](https://tzgold.github.io/my_portfolio/) • [📁 Code](https://tzgold.github.io/my_portfolio/) |
 | **🛍️ E-commerce UI** | Product page using React and Tailwind CSS | [🔗 Live](#) • [📁 Code](https://github.com/yourusername/ecommerce-ui) |
 | **✅ To-Do App** | Simple task app with local storage, search, and edit | [🔗 Live](#) • [📁 Code](https://github.com/yourusername/todo-app) |
 
