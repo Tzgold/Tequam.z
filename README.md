@@ -35,7 +35,7 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 | Project | Description | Links |
 |--------|-------------|-------|
