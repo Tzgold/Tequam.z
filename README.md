@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋 I'm Tequam.Z</h1>
-just here to make a green thing
 <h3 align="center">Front-End Web Developer | UI/UX Enthusiast | Clean Code Advocate</h3>
 
 <p align="center">
