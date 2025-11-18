@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Tequam.Z</h1>
-<h3 align="center">Front-End Web Developer | UI/UX Enthusiast | Clean Code Advocate</h3>
+<h3 align="center">Full-stack Web Developer | UI/UX Enthusiast | </h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750343-7e90fb19-0ed4-4810-b86a-82a1ed7e3d9d.gif" width="200"/>
