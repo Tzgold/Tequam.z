@@ -9,10 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- 💻 I build responsive, user-focused websites using HTML, CSS, JavaScript, React, and modern backend technologies  
-- 🎨 I bring UI/UX designs to life with precision and performance in mind  
-- 🔄 I follow clean code practices and constantly improve through learning  
-- 🤝 Available for freelance work, collaboration, or full-time opportunities
+Innovative Fullstack Developer with 5+ years of experience building and deploying scalable web architectures. Proven track record in leading engineering teams, optimizing cloud infrastructure (AWS), and delivering high performance React/Node.js applications. Experienced in Python for backend APIs, automation, and data processing, with hands on work in AI integrations, LLM powered features, and intelligent automation workflows. Passionate about clean code, UI/UX refinement, and driving engineering excellence in high velocity environments.
 
 ---
 
