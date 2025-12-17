@@ -47,17 +47,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tzgold&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tzgold&layout=compact&theme=radical" width="48%"/>
-</p>
 
----
-## 📊 GitHub Insights
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tzgold&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tzgold&layout=compact&theme=radical" width="48%"/>
 </p>
 
