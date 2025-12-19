@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋 I'm Tequam.Z</h1>
 <h3 align="center">Full-stack Developer | creative developer | </h3>
 
+ufkc  bhgbdhogebdphsv bxvhidsvocuvbwd jbvhxv
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750343-7e90fb19-0ed4-4810-b86a-82a1ed7e3d9d.gif" width="200"/>
 </p>
