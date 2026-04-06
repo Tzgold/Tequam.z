@@ -32,11 +32,8 @@ Innovative Fullstack Developer with 5+ years of experience building and deployin
 
 ---
 
-##  Featured Projects
-
-| Project | Description | Links |
 |--------|-------------|-------|
-| **🌐 Portfolio Website** | Responsive portfolio built with HTML, CSS, and JavaScript | [🔗 Live](https://tzgold.github.io/my_portfolio/) • (https://tzgold.github.io/my_portfolio/) 
+| **🌐 Portfolio Website** | Responsive portfolio built with HTML, CSS, and JavaScript | [🔗 Live](tequamzework.vercel.app) • 
 
 
 ---
